@@ -1,0 +1,12 @@
+.cabecalho {
+    width: 100%;
+    box-sizing: border-box;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    position: absolute;
+}
+
+.cabecalho__logo {
+    margin: 2rem;
+}
+
